@@ -5,7 +5,7 @@ Linear Regression is a machine learning algorithm based on supervised learning. 
 # -------------------------------------------------------------------
 
 # type of Regression Model :
-### Basically Refression model are two type :
+### Basically Regression model are two type :
 ![Types+of+regression+models](https://user-images.githubusercontent.com/42931974/70735377-271df100-1d34-11ea-882f-7a95ad578f2e.jpg)
 
 ## Linear Regression Model :
