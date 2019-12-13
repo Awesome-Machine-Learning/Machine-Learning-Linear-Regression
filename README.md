@@ -1,4 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[(https://colab.research.google.com/github/AnilNITT/Machine-Learning-Linear-Regression/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[(https://colab.research.google.com/github/AnilNITT/Machine-Learning-Linear-Regression/]]
 
 
 # Machine-Learning-Linear-Regression
